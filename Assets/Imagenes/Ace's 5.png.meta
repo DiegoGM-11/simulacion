@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 303a9be5c4859364d9e659145e3ae456
+guid: 4b78ffdaf0d01984ca36aa73d436f2da
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8680797543115379092
-    second: A_0
+      213: 2861024232217653043
+    second: Ace's 5_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -126,7 +126,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: A_0
+      name: Ace's 5_0
       rect:
         serializedVersion: 2
         x: 0
@@ -141,8 +141,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c6e268b90ac978780800000000000000
-      internalID: -8680797543115379092
+      spriteID: 33f2e1f716664b720800000000000000
+      internalID: 2861024232217653043
       vertices: []
       indices: 
       edges: []

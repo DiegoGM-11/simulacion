@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 90375810d413f7a4bac77b107f9f3e2c
+guid: ad1e9fd2e270a1a4e9a761668fe16f7e
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6421856297837412101
-    second: Joker_0
+      213: 8816737616939343943
+    second: King's 5_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -126,7 +126,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Joker_0
+      name: King's 5_0
       rect:
         serializedVersion: 2
         x: 0
@@ -141,8 +141,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 50f343747440f1950800000000000000
-      internalID: 6421856297837412101
+      spriteID: 7406e7746285b5a70800000000000000
+      internalID: 8816737616939343943
       vertices: []
       indices: 
       edges: []

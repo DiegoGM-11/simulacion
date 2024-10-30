@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 9e1a96e548009814bb491d938dcbc94a
+guid: 8d0f9a67be461624fb4c59bc63781b53
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3859272008004827343
-    second: Q_0
+      213: -2141024996426538796
+    second: King's 4_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -126,7 +126,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Q_0
+      name: King's 4_0
       rect:
         serializedVersion: 2
         x: 0
@@ -141,8 +141,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 13783475e8c117ac0800000000000000
-      internalID: -3859272008004827343
+      spriteID: 4d0a3c00c1d8942e0800000000000000
+      internalID: -2141024996426538796
       vertices: []
       indices: 
       edges: []
